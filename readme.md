@@ -188,6 +188,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 - [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
+- [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
+- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 
 
 ## Back-End Development
@@ -303,7 +305,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Hyper](https://github.com/bnb/awesome-hyper)
@@ -352,6 +354,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Computer History](https://github.com/watson/awesome-computer-history)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
+- [Educational Games](https://github.com/vinkla/awesome-educational-games) - Learn while playing.
 
 
 ## Security
@@ -372,6 +375,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 - [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
 
 ## Miscellaneous
@@ -456,6 +461,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers. 
 
 
 ## License
